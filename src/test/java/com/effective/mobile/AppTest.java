@@ -1,6 +1,4 @@
-package com.effective.mobile
-
--mobile;
+package com.effective.mobile;
 
 import static org.junit.Assert.assertTrue;
 

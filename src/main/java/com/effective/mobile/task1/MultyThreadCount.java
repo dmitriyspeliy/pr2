@@ -20,8 +20,8 @@ public class MultyThreadCount {
         }
     }
 
-    private synchronized static void count() throws InterruptedException {
+    private static void count() throws InterruptedException {
         count++;
-        System.out.println("Thread name " + Thread.currentThread().getName() + " take mutex. Count is " + count);
+        System.out.println("Thread name " + Thread.currentThread().getName() + " Count is " + count);
     }
 }

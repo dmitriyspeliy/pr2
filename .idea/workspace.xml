@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a01a4eb1-6228-474d-b4ee-33d8f82ae980" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/effective/mobile/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/effective/mobile/task1/MultyThreadCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/effective/mobile/task2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/effective/mobile/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/effective/mobile/task2/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/effective/mobile/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/effective/mobile/task3/RingBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/effective/mobile/AppTest.java" afterDir="false" />
+    <list default="true" id="a01a4eb1-6228-474d-b4ee-33d8f82ae980" name="Changes" comment="Finish">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/effective/mobile/task1/MultyThreadCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/effective/mobile/task1/MultyThreadCount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +46,7 @@
       <recent name="com.effective.mobile.task1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.MultyThreadCount">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.effective.mobile.task2.Client" />
       <module name="practice-2" />
@@ -127,10 +114,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultyThreadCount" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Server" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.MultyThreadCount" />
         <item itemvalue="Application.MultyThreadCountExmp2" />
       </list>
     </recent_temporary>
@@ -152,11 +139,30 @@
       <workItem from="1719423235024" duration="1347000" />
       <workItem from="1719461095046" duration="9810000" />
       <workItem from="1719490329706" duration="599000" />
-      <workItem from="1719494834790" duration="1498000" />
+      <workItem from="1719494834790" duration="2010000" />
     </task>
+    <task id="LOCAL-00001" summary="Finish">
+      <created>1719498808608</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719498808608</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finish">
+      <created>1719498932122</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719498932122</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish" />
   </component>
 </project>
